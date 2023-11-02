@@ -1,11 +1,7 @@
 // import components
-import Hero from '../components/Hero';
-import About from '../components/About';
-import How from '../components/How';
-import Faq from '../components/Faq';
-import Testimonials from '../components/Testimonials';
-import Footer from '../components/Footer';
-import Copyright from '../components/Copyright';
+
+import { About, Copyright, Faq, Footer, Hero, How, Testimonials } from "../sections";
+
 
 // import data
 
